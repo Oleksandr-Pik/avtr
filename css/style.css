@@ -216,6 +216,11 @@ ul {
   margin-bottom: 150px;
 }
 
+.video-youtube {
+  display: block;
+  margin: 0 auto;
+}
+
 .video__img {
   margin-bottom: 25px;
 }
